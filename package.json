@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "deep-diff": "^1.0.2",
+    "deep-object-diff": "^1.1.9",
+    "jsondiffpatch": "^0.4.1",
+    "xlsx": "^0.18.5"
+  }
+}
